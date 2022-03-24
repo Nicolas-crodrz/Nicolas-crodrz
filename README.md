@@ -1,18 +1,18 @@
 ![Entusiasta de la *programacion* y el *lenguaje de marcas*](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
 
-### Hola 👋, Mi nombre es **Nicolas**
-#### Entusiasta de la *programacion* y el *lenguaje de marcas*
-<!--  ![Entusiasta de la *programacion* y el *lenguaje de marcas*](https://images8.alphacoders.com/115/thumb-1920-1156488.png) -->
+### Hello 👋, My name is **Nicolas**
+#### Enthusiastic of *programming* and *markup language*
+
 
 ![GIF](https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif)
 
  
  
 
-Habilidades: HTML / CSS/ C#/
+Skills: HTML / CSS/ C#/ BootStrap
 
-- 🔭 Estoy trabajando en varios proyectos 
-- 🌱 Estoy aprendiendo varios lenguajes 
+- 🔭 I'm working on several projects
+- 🌱 I'm learning several languages 
 
 
 [<img src='https://cdn-icons-png.flaticon.com/512/270/270798.png' alt='github' height='40'>](https://github.com/Nicolas-Cabrera-Rodriguez)  
