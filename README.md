@@ -9,7 +9,7 @@
  
  
 
-Skills: HTML / CSS/ C#/ BootStrap
+Skills: HTML / CSS/ C#/ Bootstrap
 
 - 🔭 I'm working on several projects
 - 🌱 I'm learning several languages 
