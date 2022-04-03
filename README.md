@@ -29,5 +29,4 @@ Skills: HTML / CSS/ C#/ Bootstrap
 
 ![Profile views](https://gpvc.arturio.dev/Nicolas-Cabrera-Rodriguez)  
 
-import { AnimatedEmoji } from 'react-native-animated-emoji';
 
