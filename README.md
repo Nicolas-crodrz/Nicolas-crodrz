@@ -1,16 +1,23 @@
 
 
 
-
-
-
 <h3 align="center">
  Hello <img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width = "28" atl ="hi">, My name is Nicolas
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
+<!-- Typing SVG by Nicolas-Cabrera-Rodriguez - https://github.com/Nicolas-Cabrera-Rodriguez/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/Nicolas-Cabrera-Rodriguez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00F733&lines=SERIOUS+AND+RESPONSIBLE+PROGRAMMER;PROFESSIONAL+DEVELOPER;INFINITY+OF+IDEAS;PROGRAMMING+ENTHUSIASTIC;COUNTLESS+PROJECTS;TRADEMARK+ENTHUSIASTIC;SEVERAL+PROJECTS+COMPLETED+"></a>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Nicolas-Cabrera-Rodriguez?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Nicolas-Cabrera-Rodriguez"/></a>
+  <a href="https://github.com/Nicolas-Cabrera-Rodriguez?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Nicolas-Cabrera-Rodriguez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
@@ -38,7 +45,6 @@
     <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
@@ -50,6 +56,15 @@
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/Apache-D22128?logo=Apache&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white"></a>
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/Xampp-F37623?logo=xampp&logoColor=white"></a>
+    
+     	
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -116,4 +131,3 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nicolas-Cabrera-Rodriguez's Activity Graph" src="https://DenverCoder1-activity-graph.herokuapp.com/graph/?username=Nicolas-Cabrera-Rodriguez&bg_color=1F222E&color=F8D866&line=00F733FF&point=FFFFFF&hide_border=true" /></a>
-
