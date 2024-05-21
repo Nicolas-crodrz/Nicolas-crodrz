@@ -130,6 +130,8 @@
 </details>
 <br>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Nicolas-Cabrera-Rodriguez=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nicolas-Cabrera-Rodriguez's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Nicolas-Cabrera-Rodriguez=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nicolas-Cabrera-Rodriguez's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Nicolas-Cabrera-Rodriguez&bg_color=1F222E&color=F8D866&line=00F733FF&point=FFFFFF&hide_border=true" /></a>
