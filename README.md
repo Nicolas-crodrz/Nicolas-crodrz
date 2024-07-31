@@ -8,16 +8,16 @@
 
 <!-- Typing SVG by Nicolas-Cabrera-Rodriguez - https://github.com/Nicolas-Cabrera-Rodriguez/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/Nicolas-Cabrera-Rodriguez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00F733&lines=SERIOUS+AND+RESPONSIBLE+PROGRAMMER;PROFESSIONAL+DEVELOPER;INFINITY+OF+IDEAS;PROGRAMMING+ENTHUSIASTIC;COUNTLESS+PROJECTS;TRADEMARK+ENTHUSIASTIC;SEVERAL+PROJECTS+COMPLETED+"></a>
+  <a href="https://github.com/Nicolas-crodrz/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=00F733&lines=SERIOUS+AND+RESPONSIBLE+PROGRAMMER;PROFESSIONAL+DEVELOPER;INFINITY+OF+IDEAS;PROGRAMMING+ENTHUSIASTIC;COUNTLESS+PROJECTS;TRADEMARK+ENTHUSIASTIC;SEVERAL+PROJECTS+COMPLETED+"></a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/Nicolas-Cabrera-Rodriguez?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Nicolas-Cabrera-Rodriguez"/></a>
-  <a href="https://github.com/Nicolas-Cabrera-Rodriguez?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Nicolas-Cabrera-Rodriguez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Nicolas-crodrz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Nicolas-crodrz"/></a>
+  <a href="https://github.com/Nicolas-crodrz?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Nicolas-crodrz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 
@@ -28,8 +28,8 @@
 <!-- GitHub Readme Streak Stats - https://github.com/Nicolas-Cabrera-Rodriguez/github-readme-streak-stats -->
 
 <p align="center">
-  <a href="https://github.com/Nicolas-Cabrera-Rodriguez/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicolas's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Cabrera-Rodriguez&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00F733&sideLabels=00F733"/>
+  <a href="https://github.com/Nicolas-crodrz/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nicolas's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-crodrz&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00F733&sideLabels=00F733"/>
   </a>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
@@ -41,13 +41,13 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/SCSS-CC6699.svg?logo=Sass&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ANicolas-Cabrera-Rodriguez+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/SCSS-CC6699.svg?logo=Sass&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ANicolas-crodrz+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 
@@ -114,7 +114,7 @@
 
 
 ### Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nicolas-Cabrera-Rodriguez)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nicolas-crodrz)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📊 Github stats
@@ -123,8 +123,8 @@
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas-Cabrera-Rodriguez's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=Nicolas-Cabrera-Rodriguez&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00F733FF&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas-Cabrera-Rodriguez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Cabrera-Rodriguez&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00F733FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas-Cabrera-Rodriguez's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=Nicolas-crodrz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=00F733FF&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nicolas-Cabrera-Rodriguez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-crodrz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=00F733FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -132,4 +132,4 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Cabrera-Rodriguez&theme=react&custom_title=Contribuciones%20de%20Código&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-crodrz&theme=react&custom_title=Contribuciones%20de%20Código&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
