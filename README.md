@@ -25,11 +25,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img
-      title="GitHub Streak Stats"
-      alt="Nicolas's streak"
-      src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-crodrz&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00F733&sideLabels=00F733"
-    />
+    <img title="🔥 GitHub streak stats" alt="Nicolas's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-crodrz&theme=monokai-metallian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=00F733&sideLabels=00F733"/>
   </a>
 </p>
 
@@ -105,34 +101,10 @@
 <details>
   <summary>💻 GitHub Profile Stats</summary>
   <br>
-
-  <p align="center">
-    <img
-      alt="Nicolas GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=Nicolas-crodrz&show_icons=true&count_private=true&theme=react&hide_border=true"
-      height="180px"
-    />
-    <img
-      alt="Most Used Languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-crodrz&layout=compact&langs_count=8&theme=react&hide_border=true"
-      height="180px"
-    />
-  </p>
-
-  <p align="center">
-    <i>Note: Top languages is only a metric of the languages used in my public repositories and does not reflect my overall experience.</i>
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-crodrz&show_icons=true&count_private=true&theme=react&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-crodrz&layout=compact&theme=react&hide_border=true">
 </details>
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img
-      alt="Nicolas GitHub Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-crodrz&theme=react&hide_border=true"
-    />
-  </a>
-</p>
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-crodrz&theme=react&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
