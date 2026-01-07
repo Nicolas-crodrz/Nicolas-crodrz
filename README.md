@@ -2,6 +2,7 @@
   Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28" alt="hi">, my name is Nicolas
 </h3>
 
+
 <p align="center">
   <a href="https://github.com/Nicolas-crodrz/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=00F733&lines=SERIOUS+AND+RESPONSIBLE+PROGRAMMER;PROFESSIONAL+DEVELOPER;INFINITE+IDEAS;PROGRAMMING+ENTHUSIAST;COUNTLESS+PROJECTS;TECHNOLOGY+ENTHUSIAST;SEVERAL+PROJECTS+COMPLETED">
